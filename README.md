@@ -75,3 +75,6 @@ Step 5: Write Algorithm
 
 Step 6: Test Algorithm
 
+
+Training time and accuracy is boosted using weights from Inception V3 model, which is trained for ImageNet Challenge using data from 2012.
+Final test accuracy on dog dataset: 78.7081%
